@@ -1,0 +1,6 @@
+{
+  "name": "crm-builder",
+  "description": "Méthode réutilisable pour construire, faire évoluer et déployer des CRM et outils de pilotage commercial (Next.js + Supabase + Vercel/Netlify, ou outil HTML léger mobile-first) : schéma de données canonique, architecture, permissions par rôles, sync delta avec matching flou, déploiement et crons, import de contacts, modules IA, workflow prod-first.",
+  "version": "1.0.0",
+  "author": { "name": "Edgar Champalou" }
+}

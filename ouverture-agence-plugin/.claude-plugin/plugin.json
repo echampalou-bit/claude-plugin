@@ -1,0 +1,6 @@
+{
+  "name": "ouverture-agence",
+  "description": "Boîte à outils clef-en-main pour ouvrir une agence sur un nouveau secteur : construire une base de prospection B2B locale exhaustive et enrichie (agences immobilières, mandataires de réseau, études notariales, constructeurs de maisons individuelles), la qualifier sans faux positifs, l'importer dans le CRM cible, puis installer une veille automatique des nouvelles immatriculations.",
+  "version": "1.0.0",
+  "author": { "name": "Edgar Champalou" }
+}
