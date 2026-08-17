@@ -1,21 +1,15 @@
 ---
 name: contrats-rh
 description: >
-  Skill spécialisé pour la gestion contractuelle et RH d'Aeconomia (courtage en crédit immobilier, Orléans).
-  À utiliser SYSTÉMATIQUEMENT dès que Dimitri mentionne un contrat de travail, contrat mandataire,
-  contrat directeur d'agence, clause contractuelle, avenant, analyse juridique, droit du travail,
-  CCN VRP, CCN Syntec, MIOBSP/MIA, rémunération variable, commissions, grille de commissionnement,
-  forfait jours, télétravail, non-concurrence, non-sollicitation, véhicules de société, plan de progression
-  (courtiers ou directeurs), fiche de poste, charte managériale, charte collaborateurs, charte éthique,
-  hiérarchie de primauté documentaire, résiliation de mandat, protocole de résiliation amiable, transaction,
-  garantie conventionnelle, Périmètre, lettre de périmètre, ACPR, ORIAS, LCB-FT,
-  requalification, subordination, conformité réglementaire, structure réseau (Studio, Maison, Région),
-  seuils de maturité, baromètre équipe, directeur associé, directeur de région, kits contractuels (K1-K6),
-  redevance, avenant de levée, loyauté, exclusivité, DPAE, habilitations bancaires, formation continue IOBSP,
-  renouvellement de période d'essai, TRACFIN, DPO,
-  onboarding directeur, Plan BOOSTÉ, Plan Performance, lancement opérationnel, ouverture d'agence,
-  KPI agence, revue SMART, journée de co-pilotage, carnet du directeur, engagements mutuels.
-  Ne PAS utiliser pour l'analyse de données commerciales (dossiers.xlsx) → aeconomia-data-analyst.
+  Gestion contractuelle et RH d'Aeconomia (courtage en crédit immobilier). À utiliser SYSTÉMATIQUEMENT pour
+  tout contrat de travail, contrat mandataire MIOBSP/MIA, CDI VRP, CDI directeur d'agence, clause, avenant,
+  analyse juridique, droit du travail, CCN VRP, CCN Syntec, rémunération variable, commissions, grille de
+  commissionnement, forfait jours, télétravail, non-concurrence, non-sollicitation, véhicules, redevance,
+  avenant de levée, exclusivité, fiche de poste, chartes, kits contractuels K1-K6, hiérarchie de primauté
+  documentaire, résiliation de mandat, transaction, lettre de périmètre, requalification, subordination,
+  période d'essai, ACPR, ORIAS, IOBSP, LCB-FT, TRACFIN, conformité réglementaire, structure réseau (Studio,
+  Maison, Région), plans de progression, onboarding directeur, Plan BOOSTÉ, Plan Performance, journée de co-
+  pilotage. Ne PAS utiliser pour l'analyse de données commerciales (dossiers.xlsx) -> aeconomia-data-analyst.
 ---
 
 # Contrats et RH — Aeconomia
