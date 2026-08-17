@@ -11,6 +11,11 @@
       "name": "ouverture-agence",
       "source": "./ouverture-agence-plugin",
       "description": "Boîte à outils clef-en-main pour ouvrir une agence sur un nouveau secteur : construire une base de prospection B2B locale exhaustive et enrichie (agences, mandataires, notaires, constructeurs), la qualifier sans faux positifs, l'importer dans le CRM, puis installer une veille automatique des nouvelles immatriculations."
+    },
+    {
+      "name": "aeconomia-skills",
+      "source": "./aeconomia-skills-plugin",
+      "description": "Skills métier Aeconomia : référentiel contractuel et RH (CDI VRP, CDI Directeur de Maison, contrat mandataire MIOBSP/MIA, chartes, fiches de poste, kits K1-K6, plans de progression, conformité IOBSP/ACPR) et analyse des données commerciales."
     }
   ]
 }

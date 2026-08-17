@@ -1,5 +1,24 @@
 # Chartes et notes internes Aeconomia
 
+## 0. Charte Éthique et Conformité (rang 2 de la hiérarchie de primauté)
+
+S'applique à **tous** (salariés, mandataires, partenaires intégrés), signée avec engagement individuel. Structure : cadre réglementaire ; intégrité et devoir de conseil ; conformité-sécurité-traçabilité ; communication et image ; comportements attendus ; responsabilités et contrôle.
+
+### Points opérationnels à connaître
+- **ORIAS / statuts** : Aeconomia = COBSP + COA n°22002183, contrôle ACPR. Chaque membre agit sous contrat écrit et immatriculation individuelle ou couverture réseau selon statut.
+- **Capacité et formation continue** : IOBSP niveau 1 et/ou IAS niveau 1 ; formation continue annuelle obligatoire (DCI 40h / IAS 150h ou équivalent) ; la Société suit les habilitations, le collaborateur transmet ses justificatifs sans délai. ⚠️ Traçage de la formation continue = angle mort identifié (radiation ORIAS au renouvellement si non justifiée) — à automatiser dans le moteur d'alertes.
+- **LCB-FT (L.561-1 s. CMF)** : KYC systématique, analyse des opérations atypiques, conservation 5 ans minimum, **signalement sans délai au Référent Conformité et le cas échéant à TRACFIN**, interdiction absolue des clients sous sanctions internationales.
+- **RGPD** : minimisation, outils validés uniquement, information des droits clients, **notification au DPO sans délai → CNIL sous 72 h** en cas d'incident.
+- **Traçabilité** : dossier client complet, nomenclature réseau, accessible immédiatement en contrôle ACPR.
+- **Réclamations** : AR sous **10 jours ouvrés**, réponse motivée sous **2 mois**, information médiateurs (Assurance, AFIB).
+- **Signalement interne** : droit et devoir de signaler (anomalies, non-conformité, conflits d'intérêts, harcèlement), confidentiel via reclamations@aeconomia.fr, protection contre les rétorsions.
+- **Échelle de sanctions** (graduée) : mineur → rappel écrit / action corrective / formation ; significatif → avertissement, blâme, retrait temporaire de prérogatives (ex. véhicule) ; grave (LCB-FT, RGPD, conflit dissimulé, harcèlement) → mise à pied, licenciement faute grave/lourde (salariés), **résiliation du mandat** (mandataires), poursuites.
+
+### Fichier source
+`Charte_Ethique_Conformite_Aeconomia.docx`
+
+---
+
 Regroupe les documents non contractuels (ou para-contractuels) qui encadrent la collaboration : Charte Collaborateurs, Charte Télétravail v5, Note Véhicules de Société. La Charte Éthique et Conformité est traitée dans le SKILL.md (cadre LCB-FT).
 
 ---

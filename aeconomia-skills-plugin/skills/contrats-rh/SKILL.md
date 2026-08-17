@@ -10,7 +10,9 @@ description: >
   hiérarchie de primauté documentaire, résiliation de mandat, protocole de résiliation amiable, transaction,
   garantie conventionnelle, Périmètre, lettre de périmètre, ACPR, ORIAS, LCB-FT,
   requalification, subordination, conformité réglementaire, structure réseau (Studio, Maison, Région),
-  seuils de maturité, baromètre équipe, directeur associé, directeur de région,
+  seuils de maturité, baromètre équipe, directeur associé, directeur de région, kits contractuels (K1-K6),
+  redevance, avenant de levée, loyauté, exclusivité, DPAE, habilitations bancaires, formation continue IOBSP,
+  renouvellement de période d'essai, TRACFIN, DPO,
   onboarding directeur, Plan BOOSTÉ, Plan Performance, lancement opérationnel, ouverture d'agence,
   KPI agence, revue SMART, journée de co-pilotage, carnet du directeur, engagements mutuels.
   Ne PAS utiliser pour l'analyse de données commerciales (dossiers.xlsx) → aeconomia-data-analyst.
@@ -34,12 +36,14 @@ Avant toute analyse ou modification, lire le fichier de référence correspondan
 | 2 | Contrat mandataire indépendant (MIOBSP/MIA) | `references/mandataire.md` |
 | 3 | **Protocole de résiliation amiable du mandat** (transaction art. 2044) | `references/resiliation-mandat.md` |
 | 4 | CDI Directeur de Maison (Syntec 1486, forfait jours) — v2026 Hervé DIBBY signé | `references/cdi-directeur.md` |
-| 5 | **Chartes & notes internes** (Collaborateurs, Télétravail v5, Véhicules) | `references/chartes.md` |
-| 6 | Structure réseau & Plans de progression | `references/reseau-structure.md` |
-| 7 | Onboarding Directeur (format 15 j) | `references/onboarding-directeur.md` |
-| 8 | Plan BOOSTÉ — Lancement Opérationnel (M0→M12) | `references/plan-booste.md` |
-| 9 | Plan Performance — Année 2 (M12→M24) | `references/plan-performance.md` |
-| 10 | Journée de co-pilotage (M12→M24+) | `references/journee-copilotage.md` |
+| 5 | **Chartes & notes internes** (Éthique, Collaborateurs, Télétravail v5, Véhicules) | `references/chartes.md` |
+| 6 | **Fiches de poste** (courtier unifiée VRP/mandataire + directeur) | `references/fiche-poste.md` |
+| 7 | **Kits contractuels K1-K6, rituels, jurisprudence période d'essai** | `references/kits.md` |
+| 8 | Structure réseau & Plans de progression | `references/reseau-structure.md` |
+| 9 | Onboarding Directeur (format 15 j) | `references/onboarding-directeur.md` |
+| 10 | Plan BOOSTÉ — Lancement Opérationnel (M0→M12) | `references/plan-booste.md` |
+| 11 | Plan Performance — Année 2 (M12→M24) | `references/plan-performance.md` |
+| 12 | Journée de co-pilotage (M12→M24+) | `references/journee-copilotage.md` |
 
 ## Cadre juridique applicable
 
@@ -142,7 +146,8 @@ Objectifs annexes 2026 : assurance emprunteur déléguée ≥ **20 %** des empru
 ### Mandataire indépendant
 - **Courtage** : 50 % du CA net (production directe), 40 % (leads), 50 % (apporteurs).
 - **Assurance emprunteur** (via Simulassur/outil référencé, en % TTC des frais de distribution) : T00-T05 = 0 %, **T10 = 40 %**, T15 = 45 %, T20 = 50 %, T25 = 55 %, T30 = 60 %, T35 = 65 %, T40 = 70 % (+5 pts/tranche dès T10 ; min. 300 €/emprunteur).
-- **Non-concurrence** : 12 mois, contrepartie **25 %** des commissions HT moyennes, clause pénale 500 €/j (plafond 60 k€). ⚠️ Cette contrepartie est un marqueur de subordination — cf. risque requalification.
+- **Redevance de fonctionnement** : **100 € TTC/mois** (art. 5.2 = annexe 5 harmonisés ; 6 premiers mois offerts ; rupture = mois civil en cours dû). Mention TVA des factures à confirmer avec ORCOM (293 B vs 261 C).
+- **Non-concurrence — DOCTRINE AOÛT 2026** : post-contractuelle **supprimée** (plus d'interdiction 12 mois, plus d'indemnité 25 %, plus de clause pénale). Maintenue **pendant le contrat uniquement** (art. 8 réécrit — distincte de la loyauté art. 17 et de l'exclusivité de canal assurance ; analogie L.134-3 C. com.). Protection post-contrat = non-sollicitation (8 bis) + confidentialité (5 ans) + restitution. **Stock** : régulariser par avenant de levée, ou renonciation écrite sous 15 j à chaque sortie.
 
 ## Date de fixation des objectifs (règle harmonisée)
 
@@ -155,7 +160,7 @@ Détails : `references/chartes.md`.
 - **Charte Télétravail v5 (avril 2026)** — version en vigueur. S'applique aux **VRP + Directeurs + Référents Studio** rattachés à une agence physique (PAS aux mandataires). Lieu = **dans le secteur contractuel** (hors secteur sur accord écrit). Quotas VRP 1/2/3 j ; Directeur max 2 j (1 j en Lancement).
 - **Note Véhicules de Société** — non contractuelle. Bénéficiaires : **Directeurs (après période d'essai) + Courtiers Expert (≥ 340/400, sous réserve flotte)** ; Junior/Confirmé/mandataires = frais km. Architecture à deux niveaux (contrat strict / note souple). ⚠️ Angle mort URSSAF sur le trajet domicile-travail.
 - **Charte Managériale** (dans `cdi-directeur.md`) : 6 piliers de posture managériale.
-- **Charte Éthique et Conformité** : LCB-FT, KYC, RGPD, réclamations.
+- **Charte Éthique et Conformité** (rang 2 de primauté) : ORIAS, formation continue, LCB-FT/TRACFIN, RGPD/DPO 72h, réclamations 10 j / 2 mois, signalement interne, échelle de sanctions — détails `chartes.md` §0.
 
 ## Points de vigilance récurrents
 
@@ -165,7 +170,7 @@ Vérifier systématiquement, à chaque demande de modification/analyse :
 2. **Subordination mandataire** : proscrire tout vocabulaire d'instruction (→ « orientations commerciales générales »). Le juge apprécie un **faisceau d'indices** global : indemnité non-concurrence 25 %, secteur restrictif, opposabilité de la Charte Collaborateurs, exclusivité Simulassur, objectifs/présence imposés. Si la pratique réelle est proche du salariat → VRP salarié = seule option propre.
 3. **Non-concurrence VRP** : 30 % / 12 mois / **Centre-Val-de-Loire + limitrophes** (art. 20 CDI VRP — géographie régionale).
 4. **Non-concurrence Directeur** : 30 % / 12 mois / **département de la Maison principale (37) + limitrophes (41/36/49/72/86) + siège (45)** — ancrée sur la Maison, pas sur toute la région (art. 18 v2026). Pénalité violation = 6 mois de salaire brut moyen.
-5. **Non-concurrence Mandataire** : contrepartie **25 %** des commissions HT, clause pénale 500 €/j (plafond 60 k€), renonciation possible sous 15 j.
+5. **Non-concurrence Mandataire** : doctrine août 2026 — en cours de contrat uniquement (nouveaux gabarits). Pour le stock ancien gabarit non régularisé : la clause 25 % existe encore → avenant de levée ou renonciation écrite sous 15 j à la sortie, sinon 12 mois d'indemnité courent.
 6. **Non-sollicitation** : pas de contrepartie requise, mais périmètre à borner (sinon requalification en non-concurrence déguisée). Présente chez les 3 statuts (12 mois post-contrat).
 7. **Grille de commissionnement** : ✅ FINALISÉE côté Directeur (21 paliers, seuil 10 000 €). Toujours vérifier sa présence dans le CDI VRP (parfois tronquée). Toute modif = annexe signée.
 8. **Forfait jours (directeurs)** : 218 j, convention individuelle + suivi mensuel cosigné (3 ans). Alerte si Compétences < 100/150 ou Baromètre < 70 %.
@@ -183,6 +188,10 @@ Vérifier systématiquement, à chaque demande de modification/analyse :
 20. **RGPD** : mandataire = sous-traitant (clauses art. 28) ; paie = ORCOM sous-traitant.
 21. **Plan de progression Directeur** : en construction — seuils et critères peuvent évoluer.
 22. **Plans BOOSTÉ / Performance / Journée de co-pilotage** : objectifs co-construits, engagements mutuels réciproques, avenants co-signés.
+23. **Renouvellement de période d'essai** : acceptation expresse **manuscrite** du salarié avant le terme initial (Cass. soc. 11 juin 2025) ; lettre et bordereau de remise dissociés ; décompte quantième à quantième. Détails et précédent : `kits.md`.
+24. **Kits K1-K6** : respecter les gates durs — DPAE J-2 (K1), habilitations bancaires J-21 (K2), ORIAS effectif (K3), avenant écrit pour toute modification d'annexe (K4), état contradictoire des dossiers (K5), rupture d'essai jamais motivée (K6).
+25. **Gabarit mandataire — défauts résiduels** : date « 15 décembre 2023 » codée en dur (art. 2) ; annexe 3 : résidus « exercice fiscal » / « semestres civils » + date 15/01 → 31/12.
+26. **Trois niveaux sans support contractuel** : Référent Studio (avenant à créer), Directeur Associé/SCI (dépend de la structuration d'Edgar), Directeur de Région (avant la 3e Maison).
 
 ## Méthode de modification des contrats
 

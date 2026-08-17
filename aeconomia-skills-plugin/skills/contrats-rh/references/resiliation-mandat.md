@@ -40,12 +40,12 @@ Aucune indemnité de rupture, de clientèle, compensatrice, ni pour rupture brut
 ### Art. 6 — Restitution et RGPD
 Restitution au plus tard à la cessation : documents commerciaux, supports, matériels, fichiers clients, données, accès. Certification de non-conservation de copie. Accès désactivés à la date effective. Obligations RGPD et confidentialité maintenues.
 
-### Art. 7 — Confidentialité et non-concurrence (CHOIX À OPÉRER)
+### Art. 7 — Confidentialité et non-concurrence (DOCTRINE AOÛT 2026)
 - Confidentialité : maintenue **sans limitation de durée**.
-- Non-concurrence : **case à cocher** —
-  - ☐ maintenue conformément au contrat initial (→ l'indemnité compensatrice de 25 % de l'art. 8 du contrat mandataire continue de courir, cf. `mandataire.md`),
-  - ☐ levée d'un commun accord à compter de la cessation (→ aucune indemnité due).
-  - ⚠️ Décision à trancher explicitement à chaque signature. Si maintenue, prévoir le versement mensuel de la contrepartie sous peine de nullité de la clause.
+- Non-concurrence — deux cas selon le gabarit d'origine du contrat :
+  - **Contrat signé sous le nouveau gabarit (post-août 2026)** : aucune interdiction post-contractuelle n'existe. Remplacer les cases à cocher par : « Les Parties rappellent que le contrat ne comporte aucune interdiction de concurrence post-contractuelle. Demeurent applicables, selon leurs modalités propres, la confidentialité et la non-sollicitation. »
+  - **Contrat du stock (ancien gabarit, clause 25 % incluse, non régularisé par avenant)** : cocher **« levée d'un commun accord »** par défaut (doctrine réseau : suppression). Ne maintenir la clause qu'en cas de décision expresse de la Direction — et dans ce cas, verser la contrepartie mensuelle de 25 % sous peine de nullité. À défaut de protocole, renoncer par écrit dans les **15 jours** de la cessation.
+  - L'**avenant de levée** (`Avenant_Levee_NonConcurrence_Mandataire_TYPE.docx`) permet de purger le stock en amont, sans attendre les sorties.
 
 ### Art. 8 — Transaction (art. 2044 C. civ.)
 Le protocole vaut transaction : concessions réciproques, autorité de chose jugée entre les parties, renonciation à toute action relative à l'exécution, la cessation, les commissions, la qualification de la relation et toute indemnité. Les parties déclarent avoir eu le temps de réflexion nécessaire.
@@ -64,7 +64,7 @@ Droit français, **Tribunal de commerce** territorialement compétent (et non Co
 
 1. **Concessions réciproques** : sans elles, la transaction est requalifiable/annulable. Documenter ce que chaque partie concède.
 2. **Cohérence juridiction** : Tribunal de commerce (pas prud'hommes). Toute mention prud'homale contredirait la thèse d'indépendance.
-3. **Case non-concurrence** : ne jamais laisser les deux cases vides ou cochées. Trancher.
+3. **Non-concurrence** : appliquer la doctrine août 2026 (levée par défaut pour le stock ; clause absente des nouveaux contrats). Ne jamais laisser les deux cases vides ou cochées sur un protocole ancien gabarit.
 4. **Fait générateur commission** : bien caler sur le 1er déblocage des fonds ET l'immatriculation ORIAS active au moment du déblocage — un mandataire radié entre-temps perd le droit.
 5. **État contradictoire** : c'est la pièce qui évite les litiges post-rupture. Ne jamais signer le protocole sans cet état annexé et contresigné.
 6. **Champs à compléter** : date du contrat initial (Art. 1), date de cessation (Art. 2), coordonnées mandataire.
