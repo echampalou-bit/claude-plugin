@@ -248,6 +248,8 @@ Conditions cumulatives :
 - Rémunération : fixe + variable personnel + variable équipe + intéressement Maison (marge nette)
 
 ### Référent Studio
+> Depuis la note d'août 2026 : désignation discrétionnaire par la Direction (6 mois renouvelables), **ouverte aux salariés VRP comme aux mandataires**, sans condition de score. Prime d'animation : 200 € brut/mois/courtier (salarié) ou 300 € HT/mois/courtier (mandataire), non cumulable avec la prime d'encadrement du directeur sur le même Studio. Détails : `chartes.md` §4.
+
 - Leader terrain
 - Développement local & production
 - Partenariats et proximité client

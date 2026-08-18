@@ -1,6 +1,6 @@
 # Protocole de résiliation amiable du contrat de mandat
 
-Document type permettant de mettre fin **d'un commun accord** à un contrat de mandataire indépendant (MIOBSP/MIA), sécurisé comme **transaction** au sens des articles 2044 et suivants du Code civil. Modèle de référence : cas Chloé MACHADO (RCS Orléans 992 596 460).
+Document type permettant de mettre fin **d'un commun accord** à un contrat de mandataire indépendant (MIOBSP/MIA), sécurisé comme **transaction** au sens des articles 2044 et suivants du Code civil. Gabarit anonymisé depuis le 18/08/2026 (issu du cas de référence de janvier 2026).
 
 ## Objet et logique
 
@@ -49,7 +49,7 @@ Restitution au plus tard à la cessation : documents commerciaux, supports, mat�
 
 ### Art. 8 — Transaction (art. 2044 C. civ.)
 Le protocole vaut transaction : concessions réciproques, autorité de chose jugée entre les parties, renonciation à toute action relative à l'exécution, la cessation, les commissions, la qualification de la relation et toute indemnité. Les parties déclarent avoir eu le temps de réflexion nécessaire.
-→ La validité de la transaction suppose des **concessions réciproques réelles**. Vérifier qu'Aeconomia concède quelque chose de tangible (paiement de commissions en cours, levée de non-concurrence…) et pas seulement le mandataire.
+→ La validité de la transaction suppose des **concessions réciproques réelles**. Depuis le 18/08/2026, le gabarit intègre à l'art. 8 un **bloc d'options à cocher** (levée de non-concurrence / indemnité transactionnelle forfaitaire / extension du droit à commissions sur l'état contradictoire) : cocher et compléter **au moins une** option à chaque utilisation, sinon la transaction est fragile.
 
 ### Art. 9 — Déclarations réciproques
 Aucun litige en cours, aucune somme autre que celles prévues n'est due, exécution de bonne foi.
@@ -70,4 +70,4 @@ Droit français, **Tribunal de commerce** territorialement compétent (et non Co
 6. **Champs à compléter** : date du contrat initial (Art. 1), date de cessation (Art. 2), coordonnées mandataire.
 
 ## Fichier source
-`Protocole_re_siliation_mandat_.docx` (modèle Chloé MACHADO). Méthode de modification : XML unpack/edit/repack pour préserver la mise en forme.
+`Protocole résiliation mandat TYPE.docx` (gabarit purgé des données personnelles le 18/08/2026 — champs [DATE], [NOM], [RCS], [ADRESSE] ; l'ancien modèle nominatif est archivé dans `_archive_2026-08-18/`). Méthode de modification : XML unpack/edit/repack pour préserver la mise en forme.

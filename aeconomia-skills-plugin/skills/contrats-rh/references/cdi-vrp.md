@@ -1,11 +1,13 @@
 # CDI VRP Exclusif — Structure article par article
 
+> **Fichiers (depuis le 18/08/2026)** : gabarit vierge = `CDI_Courtier_VRP_Aeconomia_GABARIT.docx` ; l'ancien fichier « type » était en réalité un exemplaire signé, renommé `CDI_VRP_signe_Gabriel_DESPEISSE_2025-10-01.docx` (ne jamais modifier). Corrections intégrées au gabarit : essai non renouvelable, DFS taux en vigueur, objectifs 31/12, SMIC 06/2026, renvoi art. 20 (« présent article » au lieu de « 18.5 »), purge des données personnelles.
+
 ## Sommaire
 
 | Article | Objet | Points de vigilance |
 |---|---|---|
 | Préambule | Cadre légal (L.7311-1+, CCN VRP IDCC 0804) | Bien distinguer CCN VRP vs Syntec |
-| Art. 1 | Engagement + fonctions + période d'essai | Période d'essai 3+3 mois conforme |
+| Art. 1 | Engagement + fonctions + période d'essai | Essai **3 mois max, NON renouvelable** (L.7313-5) — corrigé au gabarit le 18/08/2026 |
 | Art. 2 | Objet de la représentation | Liste non exhaustive des missions |
 | Art. 3 | Secteur d'activité | Rattachement agence + secteur départemental |
 | Art. 4 | Droits et obligations | Directives, reporting hebdo, leads, apporteurs |
@@ -16,7 +18,7 @@
 | Art. 9 | Durée du travail | VRP hors réglementation durée travail |
 | Art. 10 | Objectifs commerciaux | 90K€/an nets encaissés |
 | Art. 11 | Rémunération | SMIC fixe + variable trimestriel + assurance |
-| Art. 12 | Frais professionnels | Déduction forfaitaire 30% |
+| Art. 12 | Frais professionnels | DFS au taux en vigueur (24 % en 2026, −2 pts/an, extinction 2038) |
 | Art. 13 | Avantages sociaux | MALAKOFF / APRIL |
 | Art. 14 | Absence - Maladie | Visite clientèle après 10j absence |
 | Art. 15 | Équipements | PC + CB + véhicule de service |
@@ -36,7 +38,7 @@
 ### Article 1 — Engagement
 - CDI à compter de [DATE]
 - VRP exclusif au sens de la CCN IDCC 804
-- Période d'essai : 3 mois, renouvelable 1 fois (3 mois)
+- Période d'essai : **3 mois maximum, non renouvelable** (L.7313-5 C. trav. — statut VRP d'ordre public ; la clause 3+3 antérieure était nulle : rupture au-delà de 3 mois = licenciement sans cause réelle et sérieuse). Auditer les CDI signés avant le 18/08/2026.
 - Délais de prévenance : 24h (<8j), 48h (8j-1mois), 2 semaines (1-3 mois), 1 mois (>3 mois) pour l'employeur ; 24h (<8j), 48h (>8j) pour le salarié
 
 ### Article 2 — Objet de la représentation
@@ -52,12 +54,12 @@ La Société peut modifier les produits commercialisés unilatéralement.
 
 ### Article 10 — Objectifs
 - 90 000€ nets encaissés / an
-- Révisable chaque année, communiqué avant le 15 janvier (texte actuel du contrat). ⚠️ **À harmoniser sur le 31/12 N-1** lors de la prochaine révision, pour cohérence avec le CDI Directeur (art. 8.4) et la règle jurisprudentielle : les objectifs de rémunération variable doivent être connus avant le début de la période. Le 15/01 laisse 15 jours d'exercice sans objectif opposable.
+- Révisable chaque année, communiqué **au plus tard le 31/12 N-1** (✅ harmonisé au gabarit le 18/08/2026, cohérent CDI Directeur art. 8.4 et jurisprudence).
 - Non-atteinte répétée et injustifiée = insuffisance professionnelle possible
 
 ### Article 11 — Rémunération
 **Crédit immobilier :**
-- Fixe : SMIC brut (1 801,80 € au 01/08/2025). ⚠️ **Clause d'auto-revalorisation** : « ajusté automatiquement en cas de revalorisation légale du SMIC » — le montant se met à jour de lui-même, pas besoin d'avenant. Ne pas figer une valeur périmée dans les documents dérivés ; renvoyer au « SMIC brut en vigueur ».
+- Fixe : SMIC brut (1 867,02 € au 01/06/2026 dans le gabarit). ⚠️ **Clause d'auto-revalorisation** : « ajusté automatiquement en cas de revalorisation légale du SMIC » — le montant se met à jour de lui-même, pas besoin d'avenant. Ne pas figer une valeur périmée dans les documents dérivés ; renvoyer au « SMIC brut en vigueur ».
 - Variable : taux de commission trimestriel, basé sur la moyenne mensuelle du CA net encaissé du trimestre précédent
 - Leads Aeconomia : -10% sur CA net avant application du taux
 - Bonus : téléphone si CA moyen > 12K€/trimestre ; 15€ brut par avis 5 étoiles
@@ -93,7 +95,7 @@ La Société peut modifier les produits commercialisés unilatéralement.
 
 ## Risques juridiques identifiés
 
-1. **Barème de commissions incomplet** — Le tableau des paliers/taux est absent ou tronqué dans le .docx. Risque de litige sur la rémunération variable.
+1. **Barèmes en images EMF** — les 2 tableaux (commission courtage, tranches assurance) sont des images invisibles hors Word (rendu blanc en PDF/export). À convertir en tableaux texte sous Word (note rouge insérée dans le gabarit). Risque d'opposabilité sur la rémunération variable tant que ce n'est pas fait.
 2. **Articulation télétravail** — L'art. 6 renvoie à la **Charte Télétravail v5 (avril 2026)**, version en vigueur (cf. `chartes.md` §2). Quotas VRP indexés sur le niveau : Junior 1 j, Confirmé 2 j, Expert 3 j. Lieu = **dans le secteur contractuel** (hors secteur sur accord écrit). S'assurer que l'accusé de réception v5 est signé.
 3. **Non-concurrence proportionnalité** — 30% / 12 mois / CVL+limitrophes est dans la fourchette haute mais défendable. La jurisprudence VRP tolère des clauses plus étendues que pour les salariés classiques.
 4. **Objectif 90K€** — Montant fixe dans le contrat. Penser à l'avenant si révision > communication simple.

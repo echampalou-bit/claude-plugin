@@ -1,7 +1,16 @@
 {
   "name": "aeconomia-skills",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "description": "Skills métier Aeconomia : gestion contractuelle & RH (contrats-rh) et analyse des données commerciales (aeconomia-data-analyst).",
-  "author": { "name": "Aeconomia" },
-  "keywords": ["aeconomia", "courtage", "RH", "contrats", "IOBSP", "ACPR"]
+  "author": {
+    "name": "Aeconomia"
+  },
+  "keywords": [
+    "aeconomia",
+    "courtage",
+    "RH",
+    "contrats",
+    "IOBSP",
+    "ACPR"
+  ]
 }

@@ -14,7 +14,7 @@ Gabarit de référence : `Contrat_Mandataire_TYPE_Aeconomia.docx` — **24 artic
 | Art. | Objet | Points clés |
 |---|---|---|
 | 1 | Objet | Mandat MIOBSP (prospection apporteurs, promotion, démarches banques, mise en relation, négociation) + volet MIA : assurance **exclusivement via plateformes/partenaires référencés** (Simulassur), formation R.512-9 s. |
-| 2 | Durée – reconduction – résiliation | Durée initiale 1 an, tacite reconduction annuelle (dénonciation 1 mois avant échéance). **Période d'essai 6 mois** (rupture libre sans préavis ni indemnité). Hors essai : résiliation sans motif, **préavis 1 mois** ; non-respect = indemnité 1 mois de commissions (moyenne 12 mois). Résiliation pour inexécution après mise en demeure 1 mois. Faute grave sans préavis (faux, détournement, transmission sans vérification des originaux, défaut d'information). **Résiliation de plein droit sans indemnité si défaut/perte d'immatriculation ORIAS**, procédure collective, changement de structure incompatible. Notification ORIAS de la cessation par le mandant (M-1 ou M+1). |
+| 2 | Durée – reconduction – résiliation | Durée initiale 1 an, tacite reconduction annuelle (dénonciation 1 mois avant échéance). **Période probatoire 6 mois** (renommée au gabarit le 18/08/2026 — vocabulaire non salarial ; rupture libre sans préavis ni indemnité). Hors essai : résiliation sans motif, **préavis 1 mois** ; non-respect = indemnité 1 mois de commissions (moyenne 12 mois). Résiliation pour inexécution après mise en demeure 1 mois. Faute grave sans préavis (faux, détournement, transmission sans vérification des originaux, défaut d'information). **Résiliation de plein droit sans indemnité si défaut/perte d'immatriculation ORIAS**, procédure collective, changement de structure incompatible. Notification ORIAS de la cessation par le mandant (M-1 ou M+1). |
 | 3 | Secteur et clientèle | Rattachement à une agence (point d'ancrage). Activité prioritaire sur le secteur annexe 1 ; prospection hors secteur = information préalable (coordination). **Aucune exclusivité territoriale accordée au mandataire.** |
 | 4 | Modalités d'exécution | 4.2 : indépendance totale, pas d'obligation de présence ni d'horaires, absences < 7 j non déclarées. 4.3 : « orientations commerciales générales » (formulation volontairement souple, anti-subordination). 4.4 : mentions légales + validation marketing des supports (usage marque). 4.5 : devoir de conseil renforcé, **3 propositions systématiques** (R.519-21, 22, 28 CMF). 4.6 : interdiction de sous-mandataire (salariés et indicateurs d'affaires autorisés). 4.7 : hors restructurations de prêts (partenariat CCSM Courtage, rémunération directe). 4.8 : procédure dossiers en annexe 2. |
 | 5 | Organisation | 5.2 : **redevance 100 € TTC/mois** (1er-5 du mois, ou déduction sur commissions), régime détaillé en annexe 5. |
@@ -45,16 +45,18 @@ Gabarit de référence : `Contrat_Mandataire_TYPE_Aeconomia.docx` — **24 artic
 |---|---|---|
 | 1 | Secteur | Département principal + adjacents. Référencé par l'art. 8 (périmètre de la non-concurrence en cours de contrat). |
 | 2 | Procédure de traitement des dossiers | RDV client → montage → transmission → suivi. |
-| 3 | Rémunération | CA net = commission bancaire + honoraires − rémunération apporteur. **Direct 50 % / Leads 40 % / Apporteurs 50 % du CA net encaissé.** Versement M+1 sur facture (dossier, montant débloqué, date). Révision annuelle. ⚠️ Résidus rédactionnels à nettoyer : « début d'exercice fiscal », « les semestres s'entendent civils » (la révision est annuelle), et date de communication « 15 janvier » à aligner sur le **31/12 N-1**. |
+| 3 | Rémunération | CA net = commission bancaire + honoraires − rémunération apporteur. **Direct 50 % / Leads 40 % / Apporteurs 50 % du CA net encaissé.** Versement M+1 sur facture (dossier, montant débloqué, date). Révision annuelle. ✅ Résidus nettoyés et date alignée sur le **31/12 N-1** (gabarit du 18/08/2026). |
 | 4 | RGPD (art. 28) | Modalités du traitement sous-traité. |
 | 5 | Package de fonctionnement | **100 € TTC fixe** (plus « minimum »), 6 premiers mois offerts (lancement), rupture = **mois civil en cours** dû. Révision par avenant signé. |
 | 6 | Assurance emprunteur | Via Simulassur/partenaire référencé exclusivement (canal non référencé sans autorisation écrite = faute grave). % TTC des frais de distribution : T00-T05 = 0 %, **T10 = 40 %**, T15 = 45 %, T20 = 50 %, T25 = 55 %, T30 = 60 %, T35 = 65 %, T40 = 70 % (+5 pts/tranche dès T10). Minimum 300 € de frais de distribution par emprunteur. Production assurance indépendante du CA courtage. Encaissement en une fois, récurrent conservé par Aeconomia. |
 
-## Défauts du gabarit à corriger à la prochaine édition XML
+## Défauts du gabarit — ✅ corrigés le 18/08/2026 (édition XML appliquée au fichier déployé)
 
-1. Art. 2 : date d'effet « 15 décembre 2023 » codée en dur — remplacer par champ rouge `[DATE D'EFFET]`.
-2. Annexe 3 : résidus « exercice fiscal » / « semestres civils » + date 15/01 → 31/12 (cf. ci-dessus).
-3. Vérifier que la version signée intègre bien les modifications d'août 2026 (art. 5.2 TTC, art. 8 réécrit, annexe 5) — textes de remplacement dans `MAJ_Gabarit_Mandataire_TTC_et_NonConcurrence.docx`.
+1. Art. 2 : champ `[DATE D'EFFET]` (fin du « 15 décembre 2023 ») ; « période probatoire ».
+2. Annexe 3 : résidus « exercice fiscal » / « semestres civils » supprimés ; révision communiquée au plus tard le **31/12 N-1**.
+3. Art. 5.2 = 100 € TTC ; annexe 5 = 100 € TTC fixe, rupture = mois civil ; art. 5.1 : erreur de partie corrigée (Mandataire) ; art. 8 réécrit directement dans le gabarit (le fichier `MAJ_Gabarit_...` n'est plus nécessaire) ; coordonnées mandataire en champs ([ADRESSE], [CAPITAL], RCS de [VILLE]).
+
+Original archivé dans `_archive_2026-08-18/`.
 
 ## Facturation de la redevance — point ORCOM
 
